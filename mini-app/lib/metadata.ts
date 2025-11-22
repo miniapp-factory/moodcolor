@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Mood Color Converter";
+export const description = "Convert your mood into a color and description.";
 export const url = process.env.NEXT_PUBLIC_URL;
